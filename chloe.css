@@ -1,0 +1,23 @@
+.header-links {
+    padding: 10px;
+}
+
+body {
+    background-color: darkorange;
+}
+
+h1 {
+    text-decoration: underline;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+
+h2 {
+    text-decoration: underline;
+    font-family: fantasy;
+    font-weight: bolder;
+}
+
+p {
+    font-family: fantasy;
+}
