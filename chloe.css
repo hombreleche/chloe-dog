@@ -1,9 +1,18 @@
+html {
+    align-content: center;
+}
+
+header {
+    display: flex;
+    justify-content: space-evenly;
+}
+
 .header-links {
     padding: 10px;
 }
 
 body {
-    background-color: darkorange;
+    background-color: gray;
 }
 
 h1 {
@@ -21,3 +30,10 @@ h2 {
 p {
     font-family: fantasy;
 }
+
+li {
+    padding: 15px;
+    font-family: fantasy;
+}
+
+
