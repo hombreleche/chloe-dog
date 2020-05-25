@@ -7,12 +7,10 @@ body {
 }
 
 header {
-    display: grid;
+    display: flex;
     justify-content: space-between;
     justify-items: stretch;
     background-color: gray;
-    position: fixed;
-    top: 0;
 }
 
 .header-links {
