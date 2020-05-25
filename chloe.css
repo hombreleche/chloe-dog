@@ -2,10 +2,6 @@ html {
     text-align: center;
 }
 
-body {
-    background-color: lightgrey;
-}
-
 header {
     position: fixed;
     top: 0;
@@ -13,6 +9,10 @@ header {
     justify-content: space-evenly;
     justify-items: stretch;
     background-color: gray;
+}
+
+body {
+    background-color: lightgrey;
 }
 
 .header-links {
