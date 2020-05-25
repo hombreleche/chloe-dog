@@ -50,6 +50,7 @@ li {
 }
 
 #gallery {
-    display: grid;
-    grid-template-areas: none;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
 }
