@@ -12,7 +12,7 @@ header {
     top: 0;
     width: 100%;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
     justify-items: stretch;
     background-color: gray;
     padding-bottom: 10px;
