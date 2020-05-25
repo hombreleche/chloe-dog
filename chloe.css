@@ -4,7 +4,8 @@ html {
 
 header {
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    justify-items: stretch;
 }
 
 .header-links {
@@ -12,7 +13,7 @@ header {
 }
 
 body {
-    background-color: gray;
+    background-color: lightgrey;
 }
 
 h1 {
