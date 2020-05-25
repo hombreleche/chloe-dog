@@ -1,8 +1,9 @@
-
+html {
+    text-align: center;
+}
 
 body {
     background-color: lightgrey;
-    display: flex;
 }
 
 header {
