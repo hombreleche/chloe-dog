@@ -53,3 +53,7 @@ li {
     display: flex;
     flex-wrap: wrap;
 }
+
+#gallery a {
+    padding: 10px;
+}
