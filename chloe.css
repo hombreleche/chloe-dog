@@ -11,6 +11,8 @@ header {
     justify-content: space-around;
     justify-items: stretch;
     background-color: gray;
+    position: fixed;
+    top: 0;
 }
 
 .header-links {
@@ -32,6 +34,10 @@ h2 {
 
 p {
     font-family: fantasy;
+}
+
+ul {
+    list-style-type: none;
 }
 
 li {
