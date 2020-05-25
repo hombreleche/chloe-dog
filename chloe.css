@@ -2,17 +2,18 @@ html {
     text-align: center;
 }
 
+body {
+    background-color: lightgrey;
+    display: flex;
+}
+
 header {
     position: fixed;
     top: 0;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-between;
     justify-items: stretch;
     background-color: gray;
-}
-
-body {
-    background-color: lightgrey;
 }
 
 .header-links {
