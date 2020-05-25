@@ -1,11 +1,13 @@
 html {
     align-content: center;
+    text-align: center;
 }
 
 header {
     display: flex;
     justify-content: space-around;
     justify-items: stretch;
+    background-color: gray;
 }
 
 .header-links {
@@ -14,6 +16,7 @@ header {
 
 body {
     background-color: lightgrey;
+    display: flex;
 }
 
 h1 {
@@ -37,4 +40,7 @@ li {
     font-family: fantasy;
 }
 
-
+#gallery {
+    display: grid;
+    grid-template-areas: none;
+}
