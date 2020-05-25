@@ -7,8 +7,10 @@ body {
 }
 
 header {
+    position: fixed;
+    top: 0;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     justify-items: stretch;
     background-color: gray;
 }
