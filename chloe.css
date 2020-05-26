@@ -49,6 +49,10 @@ li {
     font-family: fantasy;
 }
 
+#factlist {
+    list-style-type: armenian;
+}
+
 #gallery {
     display: flex;
     flex-wrap: wrap;
