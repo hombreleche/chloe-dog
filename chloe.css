@@ -54,9 +54,6 @@ li {
     list-style-position: inside;
 }
 
-#factlist li {
-    justify-content: left;
-}
 
 #gallery {
     display: flex;
