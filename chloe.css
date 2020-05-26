@@ -51,6 +51,7 @@ li {
 
 #factlist {
     list-style-type: armenian;
+    list-style-position: inside;
 }
 
 #gallery {
