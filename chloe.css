@@ -52,7 +52,10 @@ li {
 #factlist {
     list-style-type: armenian;
     list-style-position: inside;
-    justify-self: left;
+}
+
+#factlist li {
+    justify-content: flex-start;
 }
 
 #gallery {
