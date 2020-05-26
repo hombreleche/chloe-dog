@@ -52,6 +52,7 @@ li {
 #gallery {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
 }
 
 #gallery a {
