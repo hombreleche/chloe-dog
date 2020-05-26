@@ -57,5 +57,6 @@ li {
 }
 
 #gallery a {
-    padding: 10px;
+    padding: 5px;
+    border-style: solid;
 }
