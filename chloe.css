@@ -5,6 +5,7 @@ html {
 body {
     background-color: lightgrey;
     display: flex;
+    position: relative;
 }
 
 header {
@@ -53,7 +54,8 @@ li {
     list-style-type: lower-greek;
     list-style-position: inside;
     left: 30%;
-    display: block;
+    display: flex;
+    position: relative;
     flex-direction: column;
     align-items: flex-start;
 }
@@ -64,6 +66,7 @@ li {
     flex-wrap: wrap;
     justify-content: space-around;
     justify-items: stretch;
+    position: relative;
 }
 
 #gallery a {
