@@ -50,9 +50,10 @@ li {
 }
 
 #factlist {
-    list-style-type: upper-alpha;
+    list-style-type: upper-latin;
     list-style-position: inside;
     display: flex;
+    flex-direction: column;
     justify-content: start;
 }
 
