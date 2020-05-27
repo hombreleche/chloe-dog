@@ -55,7 +55,7 @@ li {
     display: flex;
     flex-direction: column;
     align-items: flex-start;
-    right: 30%;
+    left: 30%;
 }
 
 
