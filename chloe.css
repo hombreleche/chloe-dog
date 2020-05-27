@@ -1,3 +1,6 @@
+html {
+    text-align: center;
+}
 
 body {
     background-color: lightgrey;
@@ -51,7 +54,7 @@ li {
     list-style-position: inside;
     display: flex;
     flex-direction: column;
-    justify-content: left;
+    align-items: flex-start;
 }
 
 
